@@ -1,0 +1,1 @@
+here is the task 2 complete with the html code and the css file and the code was to implement a landing page with functionalities and having an todo loist with the landing page and have an checkbox beside every list and an paper like background.
